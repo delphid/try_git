@@ -1,1 +1,2 @@
 try_git/aa/aa.txt
+test git add dir
