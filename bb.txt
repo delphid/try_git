@@ -4,3 +4,5 @@ test git add dir
 modify from branch b3
 modify from branch b4
 add to bb.txt after remove bb.txt in another branch
+another line
+aaa
